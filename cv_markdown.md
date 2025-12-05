@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" width="300" />
-</p>
-
-<p align="center"><strong>▶ Open profile</strong></p>
-
-<p align="center">
-  <a href="#cv">Mon CV</a>
-</p>
-
-
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -19,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=4AAEEC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Med+Dhia+Ben+Aouiene;Développeur+Web+%26+Mobile;Étudiant+en+Informatique;Passionné+par+le+DSI;Toujours+prêt+à+apprendre"/>
+  <img src="my.jpeg"/>
 </p>
 
 
@@ -28,7 +17,7 @@
 ### Étudiant en Technologies de l’Information | Développement des Systèmes d’Information (DSI)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=4AAEEC&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+profil+!;Étudiant+en+informatique;Développeur+Web+et+Mobile;Passionné+par+les+Systèmes+d'Information;Toujours+prêt+à+apprendre+et+créer"/>
+  <img src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png"/>
 </p>
 
 ---
@@ -210,6 +199,3 @@ Si tu as besoin d’aide en développement web, mobile, documentation ou projets
 📧 **Email :** mohameddhiaba65@gmail.com
 
 ---
-
-> 🔥 *CV généré en version Markdown – prêt pour GitHub, portfolio ou documentation.*
-
