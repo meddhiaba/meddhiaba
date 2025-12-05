@@ -1,4 +1,4 @@
-<p align="center">
+
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -194,4 +194,3 @@ Si tu as besoin d’aide en développement web, mobile, documentation ou projets
 📧 **Email :** mohameddhiaba65@gmail.com
 
 ---
-</p>
