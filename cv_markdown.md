@@ -4,7 +4,7 @@
 <summary>Open profile</summary>
 
 <p align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/00000000" alt="Avatar" />
+  <img src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png"/>
 </p>
 
 <p align="center">
@@ -16,9 +16,6 @@
 # 👋 Med Dhia Ben Aouiene
 ### Étudiant en Technologies de l’Information | Développement des Systèmes d’Information (DSI)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png"/>
-</p>
 
 ---
 
