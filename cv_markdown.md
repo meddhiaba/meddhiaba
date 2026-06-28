@@ -82,8 +82,8 @@ Plateforme médicale avec chatbot d’assistance patient.
 
 ## 🎓 Éducation
 
-### 🎓 Licence en Informatique — *ISET Charguia Ariana* (2023–2026)
-Parcours : **Développement des Systèmes d’Information (DSI)**
+### 🎓 Licence appliquée en Technologies de l’Informatique — *ISET Charguia Ariana* (2023–2026)
+Parcours : **Développement des Systèmes Informatiques** — *Mention Très Bien*
 
 ### 🎓 Baccalauréat en Informatique (2022–2023) — *Mention Bien*
 Lycée Cité des Journalistes, Ariana
