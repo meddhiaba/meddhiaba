@@ -114,8 +114,8 @@ Lycée Cité des Journalistes, Ariana
 
 ## 🌍 Langues
 - 🇹🇳 **Arabe** : Courant
-- 🇫🇷 **Français** : Très Bon
-- 🇬🇧 **Anglais** : Bon
+- 🇫🇷 **Français** : Bon
+- 🇬🇧 **Anglais** : Très Bon
 - 🇪🇸 **Espagnol** : Notions
 
 ---
