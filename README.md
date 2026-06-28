@@ -38,9 +38,21 @@
 - Architecture REST : **Angular, Node.js, MongoDB**.
 - Interface utilisateur moderne + sécurisation des échanges.
 
+### 🔹 Stage de PFE — *BestTech SARL* (2025–2026)
+- Conception et réalisation de Hestia Estate, plateforme d’automatisation des rendez-vous immobiliers.
+- Stack : **Next.js, Express.js, PostgreSQL, Prisma, n8n, Telegram Bot API, Docker**.
+
 ---
 
 ## 🚀 Projets Réalisés
+
+### 🏡 **Hestia Estate**
+Plateforme intelligente d’automatisation des rendez-vous immobiliers (site web, bot Telegram, IA, dashboards).  
+**Tech :** Next.js, Node.js, PostgreSQL, Prisma, n8n, Telegram Bot API, Docker
+
+### 🛒 **Hexora Marketplace**
+Marketplace de biens numériques orientée confiance et modération.  
+**Tech :** Next.js, Tailwind CSS, MongoDB, NextAuth, Vitest, Docker
 
 ### ⚽ **Football-marchandise-site**
 Site e-commerce pour la vente de produits dérivés de football.  
@@ -82,14 +94,14 @@ Lycée Cité des Journalistes, Ariana
 
 ### 🔧 **Langages & Développement**
 - HTML5, CSS3, JavaScript, TypeScript  
-- Python, C, Java, Kotlin  
-- PHP, SQL, MongoDB, Prisma
+- Python, C, Java, Kotlin, PHP  
+- SQL, PostgreSQL, MySQL, MongoDB, Mongoose, Prisma
 
 ### 🖥️ **Frameworks & Outils**
-- Angular 18/20, Node.js, Express.js  
-- Spring Boot, Symfony  
-- Flutter, REST, SOAP, JWT  
-- GitHub, Docker
+- Angular 18/20, Next.js, Node.js, Express.js, Nest.js  
+- Spring Boot, Symfony, Flutter, Tailwind CSS, shadcn/ui  
+- REST, SOAP, JWT, NextAuth, OAuth, n8n, Telegram Bot API  
+- GitHub, GitLab, Docker, Docker Compose, Vercel, VPS Contabo
 
 ### 🌐 **Compétences transversales**
 - Travail d’équipe, Leadership
@@ -123,19 +135,19 @@ Lycée Cité des Journalistes, Ariana
   </kbd>
   <kbd>
     <kbd>Front-end</kbd><br><br>
-    Angular 18–20 / Flutter / Bootstrap / React
+    Angular 18–20 / Next.js / Tailwind CSS / Flutter / React
   </kbd>
   <kbd>
     <kbd>Back-end</kbd><br><br>
-    Node.js / Express.js / Spring Boot / Symfony
+    Node.js / Express.js / Nest.js / Spring Boot / Symfony
   </kbd>
   <kbd>
     <kbd>Databases</kbd><br><br>
-    MySQL / MongoDB / Prisma / SQL
+    PostgreSQL / MySQL / MongoDB / Prisma / SQL
   </kbd>
   <kbd>
     <kbd>Tools</kbd><br><br>
-    GitHub / Docker / VS Code / Android Studio
+    GitHub / GitLab / Docker / n8n / Vercel
   </kbd>
 </p>
 </details>
